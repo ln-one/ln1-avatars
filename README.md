@@ -1,6 +1,6 @@
-# My Avatar Repository
+# ln1 Avatar Repository
 
-This repository is a collection of my personal avatars.
+This repository is a collection of avatars.
 
 ## Avatars
 
