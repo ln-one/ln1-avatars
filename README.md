@@ -1,6 +1,6 @@
 # ln1 Avatar Repository
 
-This repository is a collection of avatars.
+This repository is a collection of avatars,
 
 ## Avatars
 
